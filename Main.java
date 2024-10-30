@@ -11,7 +11,7 @@ public class Main {
         //savarjisho 1
 
 //        int n = sc.nextInt();
-//        System.out.println((double) n/2);
+//        System.out.println((double) (n+1)/2);
 
         //savarjisho 2
 
